@@ -1,3 +1,3 @@
 RaPort
 
-A page where I showcase every project I'va done
+A page where I showcase every project I've done
